@@ -1,4 +1,4 @@
-Student Database Management System using python and mysql
+# Student Database Management System using python and mysql
 This is an old project i made in my 12th grade . 
 It uses python as its front-end and mySQL as its backend.<br>
 The provided code serves as a foundational structure for a school database management system. <br>
