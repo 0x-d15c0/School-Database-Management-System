@@ -3,7 +3,7 @@ This is an old project i made in my 12th grade .
 It uses python as its front-end and mySQL as its backend.<br>
 The provided code serves as a foundational structure for a school database management system. <br>
 
-### The different modules-functions of this code and their output: 
+### The output of different functions : 
 
 ## [0] Menu
 ![image](https://github.com/Tarunlol/Student-Database-Management-System-/assets/117750351/558ad663-b27d-47eb-862a-e1b9ed61bb4f) <br>
